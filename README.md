@@ -1,1 +1,19 @@
 # Random_Forest_Algorithm
+
+代码构建随机森林模型，通过n折交叉检验选择最佳模型超参数，并输出最佳模型在测试集上的表现以及最佳模型对指标重要性的评估。
+
+* n折交叉检验对模型超参数的选择结果如下：
+
+![r1](E:\GithubProjects\Random_Forest_Algorithm\README.assets\r1.png)
+
+* 模型在测试集表现如下：
+
+  | Accuracy | Macro-F1 |
+  | -------- | -------- |
+  | 0.9667   | 0.9666   |
+
+  
+
+* 模型对指标重要性评估结果如下：
+
+![r2](E:\GithubProjects\Random_Forest_Algorithm\README.assets\r2.png)
