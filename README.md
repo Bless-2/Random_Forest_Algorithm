@@ -4,7 +4,7 @@
 
 * n折交叉检验对模型超参数的选择结果如下：
 
-![r1](E:\GithubProjects\Random_Forest_Algorithm\README.assets\r1.png)
+![r1](README.assets\r1.png)
 
 * 模型在测试集表现如下：
 
@@ -16,4 +16,4 @@
 
 * 模型对指标重要性评估结果如下：
 
-![r2](E:\GithubProjects\Random_Forest_Algorithm\README.assets\r2.png)
+![r2](README.assets\r2.png)
